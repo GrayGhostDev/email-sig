@@ -15,7 +15,7 @@ This repository contains the email signature assets for Gray Ghost Data Consulta
 
 The logo is hosted at:
 ```
-https://raw.githubusercontent.com/grayghostdev/email_signature/main/logo.png
+https://raw.githubusercontent.com/GrayGhostDev/email-sig/main/logo.png
 ```
 
 ## Usage
